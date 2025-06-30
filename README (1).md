@@ -138,5 +138,5 @@ This work demonstrates how **deep learning and semi-supervised learning** can re
 
 
 ## **Authors**
-- [Raghav Kapoor](https://github.com/kdraghav2005)
+- [Ritik Singh](https://github.com/RitikSingh02)
 
